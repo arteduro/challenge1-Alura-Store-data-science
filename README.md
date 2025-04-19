@@ -4,6 +4,7 @@ Pandas
 Matplotlib
 
 📌 Descripción del Proyecto
+
 Este proyecto realiza un análisis comparativo del desempeño de cuatro tiendas minoristas (identificadas como Tienda 1 a Tienda 4) utilizando datos de ventas, evaluaciones de clientes y costos operativos. El objetivo es identificar la tienda con menor rendimiento para fundamentar decisiones estratégicas.
 
 📊 Datos Analizados
