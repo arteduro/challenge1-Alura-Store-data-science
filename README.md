@@ -23,6 +23,7 @@ requirements
 Python 3.8+
 pandas >= 1.3.0
 matplotlib >= 3.4.0
+
 📂 Estructura del Proyecto
 analisis-tiendas/
 ├── data/
@@ -39,6 +40,7 @@ analisis-tiendas/
 │   ├── product_chart_store_*.png
 │   └── shipping_chart.png
 └── README.md
+
 🚀 Cómo Ejecutar el Análisis
 Clona el repositorio:
 
