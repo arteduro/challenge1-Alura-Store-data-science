@@ -1,4 +1,4 @@
-README - Análisis Comparativo de Tiendas Minoristas
+ Análisis Comparativo de Tiendas Minoristas
 Python
 Pandas
 Matplotlib
